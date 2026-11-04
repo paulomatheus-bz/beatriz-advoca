@@ -1,10 +1,14 @@
+<div align="center">
+
 # Beatriz — Advocacia
 
-![documentação](https://img.shields.io/badge/documenta%C3%A7%C3%A3o-7C3AED?style=flat-square&labelColor=111827) ![público](https://img.shields.io/badge/p%C3%BAblico-7C3AED?style=flat-square&labelColor=111827)
+<p>Projeto de presença digital para advocacia.</p>
 
-## Visão do projeto
+<img alt="Documentação" src="https://img.shields.io/badge/Documenta%C3%A7%C3%A3o-475569?style=for-the-badge&logo=markdown&logoColor=white" />
 
-Documentação inicial de uma presença institucional para serviços jurídicos.
+<sub>PROJETO · PAULO MATHEUS</sub>
+
+</div>
 
 ---
 
