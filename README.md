@@ -34,4 +34,4 @@ Concluir o conteúdo, definir a identidade final e adicionar o código-fonte.
 
 ---
 
-<p align="center"><sub>Jurídico · <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a> · Maceió, AL</sub></p>
+<p align="center"><sub>Jurídico · <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a> · Maceió, AL · <a href="https://www.instagram.com/kmtpl7/">Instagram @kmtpl7</a></sub></p>
