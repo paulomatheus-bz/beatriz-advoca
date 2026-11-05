@@ -9,3 +9,6 @@ A proposta é oferecer uma página institucional direta, com apresentação prof
 ## Situação
 
 A demonstração foi publicada, mas o código-fonte ainda não está neste repositório. As linguagens serão reconhecidas pelo GitHub quando a aplicação for versionada aqui.
+---
+
+<p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
