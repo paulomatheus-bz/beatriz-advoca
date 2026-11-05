@@ -17,4 +17,8 @@ A página organiza a apresentação, as áreas de atuação e os caminhos de con
 
 A publicação está configurada com Vite, mas o código da demonstração não está organizado neste repositório. Os badges de React e JavaScript indicam a stack considerada para a implementação, ainda não disponível aqui.
 
+## Continuidade do projeto
+
+Antes de atualizar a demonstração, vou confirmar com o escritório o nome profissional, os serviços divulgados e os canais de atendimento. O código também precisa ser organizado neste repositório para que as próximas revisões possam ser reproduzidas.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
