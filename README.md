@@ -1,8 +1,6 @@
-<div align="center">
+<h1 align="left">Beatriz — Advocacia</h1>
 
-# Beatriz — Advocacia
-
-*Criei uma demonstração de página institucional para apresentar a atuação profissional da Beatriz na área jurídica.*
+<p><em>Criei uma demonstração de página institucional para apresentar a atuação profissional da Beatriz na área jurídica.</em></p>
 
 <p>
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD62E" />
@@ -10,7 +8,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" />
 </p>
 
-</div>
+
 
 <p><sub>Stack planejada; o código ainda não está neste repositório.</sub></p>
 ## Objetivo
