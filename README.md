@@ -1,6 +1,6 @@
 <h1 align="left">Beatriz — Advocacia</h1>
 
-<p><em>Criei uma demonstração de página institucional para apresentar a atuação profissional da Beatriz na área jurídica.</em></p>
+<p><em>Desenvolvi uma demonstração de página institucional para apresentar a atuação profissional da Beatriz na área jurídica.</em></p>
 
 <p>
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD62E" />
