@@ -12,4 +12,9 @@ A demonstração apresenta a atuação profissional da Beatriz e os canais de co
 
 A publicação usa Vite. O código não está aqui; React e JavaScript são considerados para uma próxima versão.
 
+
+## Comunicação profissional
+
+Demonstração institucional sujeita à revisão das informações pela profissional responsável.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
